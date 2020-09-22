@@ -8,7 +8,7 @@ bld:add_from_file('lab_02.glade')
 
 ui = bld.objects
 
-ui.wnd.title = "Dmitriev_lab_02"
+ui.wnd.title = "Isaev_lab_02"
 ui.wnd.on_destroy = gtk.main_quit
 ui.wnd:show_all()
 
